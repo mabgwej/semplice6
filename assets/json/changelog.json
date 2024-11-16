@@ -1,0 +1,31 @@
+{
+	"featured": [],
+	"changelog": [{
+		"label": "added",
+		"text": "Option to change the marquee speed for every breakpoint"
+	}, {
+		"label": "fixed",
+		"text": "Portfolio grid lazy load now works correctly"
+	}, {
+		"label": "fixed",
+		"text": "Drop shadow now applies correctly to the fluid text module"
+	}, {
+		"label": "fixed",
+		"text": "Code editor for logo option 'SVG Code' now works properly"
+	}, {
+		"label": "fixed",
+		"text": "Custom cursor works now for portfolio grid category filter"
+	}, {
+		"label": "fixed",
+		"text": "Four corner nav items where stacked on top after page transition"
+	}, {
+		"label": "fixed",
+		"text": "Table grid mouseover now correctly displays the thumbnail on the right (Safari)"
+	}, {
+		"label": "fixed",
+		"text": "Gallery grid shadow mouseover now works properly with the new custom cursor"
+	}, {
+		"label": "fixed",
+		"text": "Marquee sometimes runs super fast with svg images"
+	}]
+}
